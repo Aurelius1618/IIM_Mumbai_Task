@@ -1,0 +1,13 @@
+prefix=E:/Projects Kgp/IIM Mumbai Task/Facility_layout_optimization/venv/Library
+exec_prefix=E:/Projects Kgp/IIM Mumbai Task/Facility_layout_optimization/venv/Library
+libdir=E:/Projects Kgp/IIM Mumbai Task/Facility_layout_optimization/venv/Library/lib
+sharedlibdir=E:/Projects Kgp/IIM Mumbai Task/Facility_layout_optimization/venv/Library/lib
+includedir=E:/Projects Kgp/IIM Mumbai Task/Facility_layout_optimization/venv/Library/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}

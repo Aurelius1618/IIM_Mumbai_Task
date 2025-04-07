@@ -1,0 +1,2 @@
+batch_size,Epochs,train_rmsle_adam,test_rmsle_adam,val_rmsle_adam,train_ER_adam,test_ER_adam,val_ER_adam
+30,100,0.07745614664664718,0.051461487065938775,0.04450363325282729,[120.87330651],[114.56296995],[155.29983008]

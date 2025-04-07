@@ -1,0 +1,1 @@
+-e "# Virtual environment\nvenv/\n\n# Python cache\n__pycache__/\n*.py[cod]\n\n# Environment files\n.env\n.env.local\n\n# IDE specific\n.vscode/\n.idea/\n\n# Local development\n*.log\n*.sqlite3\n\n# Dependency directories\npip-wheel-metadata/\n\n# Test files\n*.test\n\n# Local configuration\n*.local" 
